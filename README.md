@@ -10,4 +10,5 @@ added a README.md file
 + git commit -m"" is for creating pull request  
 - git push origin main is for accepting the pull request  
 changed for a commit
+hello 
 ![logo](logo.png)
